@@ -1,0 +1,51 @@
+C:\ApiUsuario\AcessoDados\bin\Debug\net6.0\AcessoDados.deps.json
+C:\ApiUsuario\AcessoDados\bin\Debug\net6.0\AcessoDados.dll
+C:\ApiUsuario\AcessoDados\bin\Debug\net6.0\AcessoDados.pdb
+C:\ApiUsuario\AcessoDados\bin\Debug\net6.0\Entidades.dll
+C:\ApiUsuario\AcessoDados\bin\Debug\net6.0\Entidades.pdb
+C:\ApiUsuario\AcessoDados\obj\Debug\net6.0\AcessoDados.csproj.AssemblyReference.cache
+C:\ApiUsuario\AcessoDados\obj\Debug\net6.0\AcessoDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\ApiUsuario\AcessoDados\obj\Debug\net6.0\AcessoDados.AssemblyInfoInputs.cache
+C:\ApiUsuario\AcessoDados\obj\Debug\net6.0\AcessoDados.AssemblyInfo.cs
+C:\ApiUsuario\AcessoDados\obj\Debug\net6.0\AcessoDados.csproj.CoreCompileInputs.cache
+C:\ApiUsuario\AcessoDados\obj\Debug\net6.0\AcessoDados.csproj.CopyComplete
+C:\ApiUsuario\AcessoDados\obj\Debug\net6.0\AcessoDados.dll
+C:\ApiUsuario\AcessoDados\obj\Debug\net6.0\refint\AcessoDados.dll
+C:\ApiUsuario\AcessoDados\obj\Debug\net6.0\AcessoDados.pdb
+C:\ApiUsuario\AcessoDados\obj\Debug\net6.0\ref\AcessoDados.dll
+C:\ApiUsuario\AcessoDados\bin\Debug\net6.0\AcessoDados.runtimeconfig.json
+C:\ApiUsuario\AcessoDados\obj\Debug\net6.0\AcessoDados.genruntimeconfig.cache
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\AcessoDados\bin\Debug\net6.0\AcessoDados.deps.json
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\AcessoDados\bin\Debug\net6.0\AcessoDados.runtimeconfig.json
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\AcessoDados\bin\Debug\net6.0\AcessoDados.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\AcessoDados\bin\Debug\net6.0\AcessoDados.pdb
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\AcessoDados\bin\Debug\net6.0\Entidades.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\AcessoDados\bin\Debug\net6.0\Entidades.pdb
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\AcessoDados\obj\Debug\net6.0\AcessoDados.csproj.AssemblyReference.cache
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\AcessoDados\obj\Debug\net6.0\AcessoDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\AcessoDados\obj\Debug\net6.0\AcessoDados.AssemblyInfoInputs.cache
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\AcessoDados\obj\Debug\net6.0\AcessoDados.AssemblyInfo.cs
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\AcessoDados\obj\Debug\net6.0\AcessoDados.csproj.CoreCompileInputs.cache
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\AcessoDados\obj\Debug\net6.0\AcessoDados.csproj.CopyComplete
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\AcessoDados\obj\Debug\net6.0\AcessoDados.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\AcessoDados\obj\Debug\net6.0\refint\AcessoDados.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\AcessoDados\obj\Debug\net6.0\AcessoDados.pdb
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\AcessoDados\obj\Debug\net6.0\AcessoDados.genruntimeconfig.cache
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\AcessoDados\obj\Debug\net6.0\ref\AcessoDados.dll
+C:\Projetos\ApiUsuarioNew\AcessoDados\bin\Debug\net6.0\AcessoDados.deps.json
+C:\Projetos\ApiUsuarioNew\AcessoDados\bin\Debug\net6.0\AcessoDados.runtimeconfig.json
+C:\Projetos\ApiUsuarioNew\AcessoDados\bin\Debug\net6.0\AcessoDados.dll
+C:\Projetos\ApiUsuarioNew\AcessoDados\bin\Debug\net6.0\AcessoDados.pdb
+C:\Projetos\ApiUsuarioNew\AcessoDados\bin\Debug\net6.0\Entidades.dll
+C:\Projetos\ApiUsuarioNew\AcessoDados\bin\Debug\net6.0\Entidades.pdb
+C:\Projetos\ApiUsuarioNew\AcessoDados\obj\Debug\net6.0\AcessoDados.csproj.AssemblyReference.cache
+C:\Projetos\ApiUsuarioNew\AcessoDados\obj\Debug\net6.0\AcessoDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ApiUsuarioNew\AcessoDados\obj\Debug\net6.0\AcessoDados.AssemblyInfoInputs.cache
+C:\Projetos\ApiUsuarioNew\AcessoDados\obj\Debug\net6.0\AcessoDados.AssemblyInfo.cs
+C:\Projetos\ApiUsuarioNew\AcessoDados\obj\Debug\net6.0\AcessoDados.csproj.CoreCompileInputs.cache
+C:\Projetos\ApiUsuarioNew\AcessoDados\obj\Debug\net6.0\AcessoDados.csproj.CopyComplete
+C:\Projetos\ApiUsuarioNew\AcessoDados\obj\Debug\net6.0\AcessoDados.dll
+C:\Projetos\ApiUsuarioNew\AcessoDados\obj\Debug\net6.0\refint\AcessoDados.dll
+C:\Projetos\ApiUsuarioNew\AcessoDados\obj\Debug\net6.0\AcessoDados.pdb
+C:\Projetos\ApiUsuarioNew\AcessoDados\obj\Debug\net6.0\AcessoDados.genruntimeconfig.cache
+C:\Projetos\ApiUsuarioNew\AcessoDados\obj\Debug\net6.0\ref\AcessoDados.dll

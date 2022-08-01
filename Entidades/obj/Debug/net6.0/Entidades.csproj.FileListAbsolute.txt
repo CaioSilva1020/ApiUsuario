@@ -1,0 +1,36 @@
+C:\ApiUsuario\Entidades\bin\Debug\net6.0\Entidades.deps.json
+C:\ApiUsuario\Entidades\bin\Debug\net6.0\Entidades.dll
+C:\ApiUsuario\Entidades\bin\Debug\net6.0\Entidades.pdb
+C:\ApiUsuario\Entidades\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
+C:\ApiUsuario\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\ApiUsuario\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\ApiUsuario\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\ApiUsuario\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\ApiUsuario\Entidades\obj\Debug\net6.0\Entidades.dll
+C:\ApiUsuario\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+C:\ApiUsuario\Entidades\obj\Debug\net6.0\Entidades.pdb
+C:\ApiUsuario\Entidades\obj\Debug\net6.0\ref\Entidades.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\Entidades\bin\Debug\net6.0\Entidades.deps.json
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\Entidades\bin\Debug\net6.0\Entidades.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\Entidades\bin\Debug\net6.0\Entidades.pdb
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\Entidades\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\Entidades\obj\Debug\net6.0\Entidades.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\Entidades\obj\Debug\net6.0\Entidades.pdb
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\Entidades\obj\Debug\net6.0\ref\Entidades.dll
+C:\Projetos\ApiUsuarioNew\Entidades\bin\Debug\net6.0\Entidades.deps.json
+C:\Projetos\ApiUsuarioNew\Entidades\bin\Debug\net6.0\Entidades.dll
+C:\Projetos\ApiUsuarioNew\Entidades\bin\Debug\net6.0\Entidades.pdb
+C:\Projetos\ApiUsuarioNew\Entidades\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
+C:\Projetos\ApiUsuarioNew\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ApiUsuarioNew\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\Projetos\ApiUsuarioNew\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\Projetos\ApiUsuarioNew\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Projetos\ApiUsuarioNew\Entidades\obj\Debug\net6.0\Entidades.dll
+C:\Projetos\ApiUsuarioNew\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+C:\Projetos\ApiUsuarioNew\Entidades\obj\Debug\net6.0\Entidades.pdb
+C:\Projetos\ApiUsuarioNew\Entidades\obj\Debug\net6.0\ref\Entidades.dll

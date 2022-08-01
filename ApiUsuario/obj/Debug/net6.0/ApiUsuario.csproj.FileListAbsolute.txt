@@ -1,0 +1,210 @@
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\appsettings.Development.json
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\appsettings.json
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\ApiUsuario.exe
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\ApiUsuario.deps.json
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\ApiUsuario.runtimeconfig.json
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\ApiUsuario.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\ApiUsuario.pdb
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Humanizer.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\AcessoDados.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Entidades.dll
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\AcessoDados.pdb
+C:\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Entidades.pdb
+C:\ApiUsuario\ApiUsuario\obj\Debug\net6.0\ApiUsuario.csproj.AssemblyReference.cache
+C:\ApiUsuario\ApiUsuario\obj\Debug\net6.0\ApiUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\ApiUsuario\ApiUsuario\obj\Debug\net6.0\ApiUsuario.AssemblyInfoInputs.cache
+C:\ApiUsuario\ApiUsuario\obj\Debug\net6.0\ApiUsuario.AssemblyInfo.cs
+C:\ApiUsuario\ApiUsuario\obj\Debug\net6.0\ApiUsuario.csproj.CoreCompileInputs.cache
+C:\ApiUsuario\ApiUsuario\obj\Debug\net6.0\ApiUsuario.MvcApplicationPartsAssemblyInfo.cs
+C:\ApiUsuario\ApiUsuario\obj\Debug\net6.0\ApiUsuario.MvcApplicationPartsAssemblyInfo.cache
+C:\ApiUsuario\ApiUsuario\obj\Debug\net6.0\staticwebassets.build.json
+C:\ApiUsuario\ApiUsuario\obj\Debug\net6.0\staticwebassets.development.json
+C:\ApiUsuario\ApiUsuario\obj\Debug\net6.0\scopedcss\bundle\ApiUsuario.styles.css
+C:\ApiUsuario\ApiUsuario\obj\Debug\net6.0\ApiUsuario.csproj.CopyComplete
+C:\ApiUsuario\ApiUsuario\obj\Debug\net6.0\ApiUsuario.dll
+C:\ApiUsuario\ApiUsuario\obj\Debug\net6.0\refint\ApiUsuario.dll
+C:\ApiUsuario\ApiUsuario\obj\Debug\net6.0\ApiUsuario.pdb
+C:\ApiUsuario\ApiUsuario\obj\Debug\net6.0\ApiUsuario.genruntimeconfig.cache
+C:\ApiUsuario\ApiUsuario\obj\Debug\net6.0\ref\ApiUsuario.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\appsettings.json
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\ApiUsuario.exe
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\ApiUsuario.deps.json
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\ApiUsuario.runtimeconfig.json
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\ApiUsuario.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\ApiUsuario.pdb
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Humanizer.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\AcessoDados.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Entidades.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\NegocioInterface.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\AcessoDados.pdb
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Entidades.pdb
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\NegocioInterface.pdb
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\obj\Debug\net6.0\ApiUsuario.csproj.AssemblyReference.cache
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\obj\Debug\net6.0\ApiUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\obj\Debug\net6.0\ApiUsuario.AssemblyInfoInputs.cache
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\obj\Debug\net6.0\ApiUsuario.AssemblyInfo.cs
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\obj\Debug\net6.0\ApiUsuario.csproj.CoreCompileInputs.cache
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\obj\Debug\net6.0\ApiUsuario.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\obj\Debug\net6.0\ApiUsuario.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\obj\Debug\net6.0\scopedcss\bundle\ApiUsuario.styles.css
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\obj\Debug\net6.0\ApiUsuario.csproj.CopyComplete
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\obj\Debug\net6.0\ApiUsuario.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\obj\Debug\net6.0\refint\ApiUsuario.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\obj\Debug\net6.0\ApiUsuario.pdb
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\obj\Debug\net6.0\ApiUsuario.genruntimeconfig.cache
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\obj\Debug\net6.0\ref\ApiUsuario.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Negocio.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\ApiUsuario\bin\Debug\net6.0\Negocio.pdb
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\appsettings.Development.json
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\appsettings.json
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\ApiUsuario.exe
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\ApiUsuario.deps.json
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\ApiUsuario.runtimeconfig.json
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\ApiUsuario.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\ApiUsuario.pdb
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Humanizer.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\AcessoDados.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Entidades.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Negocio.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\NegocioInterface.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\AcessoDados.pdb
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Entidades.pdb
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\NegocioInterface.pdb
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Negocio.pdb
+C:\Projetos\ApiUsuarioNew\ApiUsuario\obj\Debug\net6.0\ApiUsuario.csproj.AssemblyReference.cache
+C:\Projetos\ApiUsuarioNew\ApiUsuario\obj\Debug\net6.0\ApiUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ApiUsuarioNew\ApiUsuario\obj\Debug\net6.0\ApiUsuario.AssemblyInfoInputs.cache
+C:\Projetos\ApiUsuarioNew\ApiUsuario\obj\Debug\net6.0\ApiUsuario.AssemblyInfo.cs
+C:\Projetos\ApiUsuarioNew\ApiUsuario\obj\Debug\net6.0\ApiUsuario.csproj.CoreCompileInputs.cache
+C:\Projetos\ApiUsuarioNew\ApiUsuario\obj\Debug\net6.0\ApiUsuario.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\ApiUsuarioNew\ApiUsuario\obj\Debug\net6.0\ApiUsuario.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\ApiUsuarioNew\ApiUsuario\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projetos\ApiUsuarioNew\ApiUsuario\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projetos\ApiUsuarioNew\ApiUsuario\obj\Debug\net6.0\scopedcss\bundle\ApiUsuario.styles.css
+C:\Projetos\ApiUsuarioNew\ApiUsuario\obj\Debug\net6.0\ApiUsuario.csproj.CopyComplete
+C:\Projetos\ApiUsuarioNew\ApiUsuario\obj\Debug\net6.0\ApiUsuario.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\obj\Debug\net6.0\refint\ApiUsuario.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\obj\Debug\net6.0\ApiUsuario.pdb
+C:\Projetos\ApiUsuarioNew\ApiUsuario\obj\Debug\net6.0\ApiUsuario.genruntimeconfig.cache
+C:\Projetos\ApiUsuarioNew\ApiUsuario\obj\Debug\net6.0\ref\ApiUsuario.dll
+C:\Projetos\ApiUsuarioNew\ApiUsuario\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

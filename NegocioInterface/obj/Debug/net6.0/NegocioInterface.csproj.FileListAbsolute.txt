@@ -1,0 +1,30 @@
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\NegocioInterface\bin\Debug\net6.0\NegocioInterface.deps.json
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\NegocioInterface\bin\Debug\net6.0\NegocioInterface.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\NegocioInterface\bin\Debug\net6.0\NegocioInterface.pdb
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\NegocioInterface\bin\Debug\net6.0\Entidades.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\NegocioInterface\bin\Debug\net6.0\Entidades.pdb
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\NegocioInterface\obj\Debug\net6.0\NegocioInterface.csproj.AssemblyReference.cache
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\NegocioInterface\obj\Debug\net6.0\NegocioInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\NegocioInterface\obj\Debug\net6.0\NegocioInterface.AssemblyInfoInputs.cache
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\NegocioInterface\obj\Debug\net6.0\NegocioInterface.AssemblyInfo.cs
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\NegocioInterface\obj\Debug\net6.0\NegocioInterface.csproj.CoreCompileInputs.cache
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\NegocioInterface\obj\Debug\net6.0\NegocioInterface.csproj.CopyComplete
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\NegocioInterface\obj\Debug\net6.0\NegocioInterface.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\NegocioInterface\obj\Debug\net6.0\refint\NegocioInterface.dll
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\NegocioInterface\obj\Debug\net6.0\NegocioInterface.pdb
+C:\Users\caioo\OneDrive\Área de Trabalho\C\ApiUsuario\NegocioInterface\obj\Debug\net6.0\ref\NegocioInterface.dll
+C:\Projetos\ApiUsuarioNew\NegocioInterface\bin\Debug\net6.0\NegocioInterface.deps.json
+C:\Projetos\ApiUsuarioNew\NegocioInterface\bin\Debug\net6.0\NegocioInterface.dll
+C:\Projetos\ApiUsuarioNew\NegocioInterface\bin\Debug\net6.0\NegocioInterface.pdb
+C:\Projetos\ApiUsuarioNew\NegocioInterface\bin\Debug\net6.0\Entidades.dll
+C:\Projetos\ApiUsuarioNew\NegocioInterface\bin\Debug\net6.0\Entidades.pdb
+C:\Projetos\ApiUsuarioNew\NegocioInterface\obj\Debug\net6.0\NegocioInterface.csproj.AssemblyReference.cache
+C:\Projetos\ApiUsuarioNew\NegocioInterface\obj\Debug\net6.0\NegocioInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ApiUsuarioNew\NegocioInterface\obj\Debug\net6.0\NegocioInterface.AssemblyInfoInputs.cache
+C:\Projetos\ApiUsuarioNew\NegocioInterface\obj\Debug\net6.0\NegocioInterface.AssemblyInfo.cs
+C:\Projetos\ApiUsuarioNew\NegocioInterface\obj\Debug\net6.0\NegocioInterface.csproj.CoreCompileInputs.cache
+C:\Projetos\ApiUsuarioNew\NegocioInterface\obj\Debug\net6.0\NegocioInterface.csproj.CopyComplete
+C:\Projetos\ApiUsuarioNew\NegocioInterface\obj\Debug\net6.0\NegocioInterface.dll
+C:\Projetos\ApiUsuarioNew\NegocioInterface\obj\Debug\net6.0\refint\NegocioInterface.dll
+C:\Projetos\ApiUsuarioNew\NegocioInterface\obj\Debug\net6.0\NegocioInterface.pdb
+C:\Projetos\ApiUsuarioNew\NegocioInterface\obj\Debug\net6.0\ref\NegocioInterface.dll
